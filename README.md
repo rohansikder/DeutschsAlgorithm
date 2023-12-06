@@ -16,6 +16,48 @@ Before starting, ensure you have the following installed:
 - Jupyter Notebook
 - Qiskit
 
+### Installing Python 3.x
+
+Python 3.x can be installed from the official Python website. Here's how you can do it:
+
+#### For Windows:
+
+1. Visit the official [Python website](https://www.python.org/downloads/).
+2. Download the latest version of Python 3.x for Windows.
+3. Run the installer. Ensure that you check the box that says "Add Python 3.x to PATH" before you click "Install Now".
+
+#### For macOS:
+
+1. Visit the official [Python website](https://www.python.org/downloads/).
+2. Download the latest version of Python 3.x for macOS.
+3. Open the downloaded file and follow the installation instructions.
+
+### Installing Jupyter Notebook
+
+Once Python is installed, you can install Jupyter Notebook using pip, Python's package manager. Here's how to do it:
+
+1. Open your command line or terminal.
+2. Install Jupyter Notebook by running:
+
+   ```bash
+   pip install notebook
+3. Run Notebook
+   ```bash
+   jupyter notebook
+
+### Installing Qiskit
+
+Qiskit is an open-source quantum computing software development framework. Follow these steps to install Qiskit:
+
+1. Ensure that Python 3.x is already installed on your system.
+
+2. Open your command line or terminal.
+
+3. Install Qiskit by running:
+
+   ```bash
+   pip install qiskit
+
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
