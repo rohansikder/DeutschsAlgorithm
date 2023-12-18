@@ -57,6 +57,7 @@ Qiskit is an open-source quantum computing software development framework. Follo
 
    ```bash
    pip install qiskit
+   pip install matplotlib
 
 ### Installation
 1. Clone the repository to your local machine:
