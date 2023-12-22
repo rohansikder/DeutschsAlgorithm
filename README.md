@@ -58,11 +58,12 @@ Qiskit is an open-source quantum computing software development framework. Follo
    ```bash
    pip install qiskit
    pip install matplotlib
+   pip install qiskit-ibmq-provider
 
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/rohansikder/EmergingTechnologies.git)https://github.com/rohansikder/EmergingTechnologies.git
+   git clone https://github.com/rohansikder/EmergingTechnologies.git
 
 ## Credits
 This project was created by Rohan Sikder for ATU as a part of the Emerging Technologies Module.
