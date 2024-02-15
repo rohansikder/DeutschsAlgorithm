@@ -63,7 +63,7 @@ Qiskit is an open-source quantum computing software development framework. Follo
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/rohansikder/EmergingTechnologies.git
+   git clone https://github.com/rohansikder/DeutschsAlgorithm.git
 
 ## Credits
 This project was created by Rohan Sikder for ATU as a part of the Emerging Technologies Module.
